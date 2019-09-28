@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+.headers{
+    background:blue;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.headers Bookmark {
+    text-decoration: none;
+     color: white;
+}
+.head2{
+    display: flex;
+    
+}
+.head2 h5{
+    padding-left: 20px;
+}
+.test{
+    width: 6in;
+}
+form{
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+     height: 100px;
+}
